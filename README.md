@@ -2,11 +2,19 @@
 
 This contains the files related to Project Number 3.
 
+## Project Files
+
 - [Gantt Chart](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_GanttChart.xlsx)
+- [Scope of Work](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_SOW.docx)
 - [Python Code](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_PythonCode.ipynb)
-- [Scope of Work](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_Report.docx)
--  [Report](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_Report.docx)
--  
+- [Annotated Code Document](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_ACD.xlsx)
+- [Report](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_Report.docx)
+- [Time Sheet](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_TimeSheet.xlsx)
+
+## Project Data Files
+
+- [NGSIM Data](https://github.com/SchaeferRog/Project-3-/blob/main/NGSIM.csv)
+- [NHTS Data](https://github.com/SchaeferRog/Project-3-/blob/main/NHTS.csv)
 
 
 The repository includes the Annotated Code Document, Gaant Chart, Python Code, Scope of Work, Time Sheet, and Project Report. The files, name, and their corresponding due dates are summarized in the table below. 
