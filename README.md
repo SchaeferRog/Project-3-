@@ -2,8 +2,12 @@
 
 This contains the files related to Project Number 3.
 
-- [Gantt Chart](
-- [Annotated Code Document (ACD)(CIVE202_Spring2026_P3-G06_Project3_ACD.xlsx)
+- [Gantt Chart](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_GanttChart.xlsx)
+- [Python Code](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_PythonCode.ipynb)
+- [Scope of Work](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_Report.docx)
+-  [Report](https://github.com/SchaeferRog/Project-3-/blob/main/CIVE202_Spring2026_P3-G06_Project3_Report.docx)
+-  
+
 
 The repository includes the Annotated Code Document, Gaant Chart, Python Code, Scope of Work, Time Sheet, and Project Report. The files, name, and their corresponding due dates are summarized in the table below. 
 
